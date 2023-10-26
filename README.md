@@ -1,7 +1,3 @@
-<<<<<<< 06aabc1fa70578956d444429c3bf505cc3d5e8b9
-# E-Voting-dApp
-Blockchain IA
-=======
 # E-Voting App
 A simple E-voting app using Ethereum Blockchain and ReactJS
 
@@ -26,8 +22,7 @@ npm start
 cd server
 npm run dev
 ```
->>>>>>> Create README.md
-# E-Voting-dApp
-"# E-Voting-dApp" 
-"# E-Voting-dApp" 
-"# E-Voting-dApp" 
+## Project Members
+1. Dhairya Ameria
+2. Anisha Sah
+3. Nabodita Choudhury
